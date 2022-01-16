@@ -1,0 +1,28 @@
+
+{
+  "NAME": "BetterScale",
+  "URL": "https://github.com/Staticalliam7/BetterScale.-BetterScale/raw/main/Staticalliam7_BetterScale/BetterScale.version",
+  "DOWNLOAD": "https://github.com/Staticalliam7/BetterScale/releases",
+  "GITHUB": {
+    "USERNAME": "Staticalliam7",
+    "REPOSITORY": "BetterScale"
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 1,
+    "PATCH": 6,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 3,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 11,
+    "PATCH": 0,
+    "BUILD": 0
+  }
+}
